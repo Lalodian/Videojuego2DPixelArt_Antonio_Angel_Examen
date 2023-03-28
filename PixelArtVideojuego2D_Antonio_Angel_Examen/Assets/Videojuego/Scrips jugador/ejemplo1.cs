@@ -17,9 +17,7 @@ public class ejemplo1 : MonoBehaviour
     }
 
 
-
-    
-    }
+}
 
     // Update is called once per frame
     
