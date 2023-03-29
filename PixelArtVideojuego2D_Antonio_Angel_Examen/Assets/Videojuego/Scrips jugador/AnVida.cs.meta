@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:PixelArtVideojuego2D_Antonio_Angel_Examen/Assets/Videojuego/Scrips jugador/Patrol.cs.meta
+guid: 75f5a804aaef8304b8b3b78821f2ef95
+========
+guid: 8266c8b4c4ccbd54f8728eb6c0d97118
+>>>>>>>> parent of 4e0968b (Angel):PixelArtVideojuego2D_Antonio_Angel_Examen/Assets/Videojuego/Scrips jugador/AnVida.cs.meta
+=======
+guid: 8266c8b4c4ccbd54f8728eb6c0d97118
+>>>>>>> parent of 4e0968b (Angel)
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

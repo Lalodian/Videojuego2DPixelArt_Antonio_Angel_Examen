@@ -7,9 +7,6 @@ public class ejemplo3 : MonoBehaviour
     public GameObject prefab;
     public float intervalo = 5;
     private float tiempo;
-    public float intrvaloParaCrear = 5;
-    public Vector2 nuevaPos;
-    
     // Start is called before the first frame update
     
     // Update is called once per frame
@@ -17,15 +14,9 @@ public class ejemplo3 : MonoBehaviour
     {
         tiempo += Time.deltaTime;
         if(tiempo>=intervalo)
-        {
-            GameObject nuevoObjeto = Instantiate(prefab);
-            Vector2 posFinal = nuevaPos;
-            posFinal = (Vector2)transform.position + nuevaPos;
-            nuevoObjeto.transform.position = posFinal;
+                {
+            Instantiate(prefab);
             tiempo -= intervalo;
         }
-                
-           
-        
     }
 }
